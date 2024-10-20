@@ -26,6 +26,7 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
     <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -269,7 +270,7 @@
       <workItem from="1729420451279" duration="6994000" />
       <workItem from="1729429887234" duration="664000" />
       <workItem from="1729438981489" duration="620000" />
-      <workItem from="1729439609977" duration="303000" />
+      <workItem from="1729439609977" duration="3176000" />
     </task>
     <servers />
   </component>
