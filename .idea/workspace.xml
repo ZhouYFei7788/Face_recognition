@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6093b58f-5388-4b74-b97d-1a895ef4b612" name="更改" comment="修改了人脸特征，优化了张嘴检测和眨眼检测">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6093b58f-5388-4b74-b97d-1a895ef4b612" name="更改" comment="修改了人脸特征，优化了张嘴检测和眨眼检测" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -272,6 +269,7 @@
       <workItem from="1729420451279" duration="6994000" />
       <workItem from="1729429887234" duration="664000" />
       <workItem from="1729438981489" duration="620000" />
+      <workItem from="1729439609977" duration="303000" />
     </task>
     <servers />
   </component>
